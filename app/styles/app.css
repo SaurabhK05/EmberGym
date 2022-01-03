@@ -1,0 +1,39 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(../asset/gym.jpg);
+    background-size: cover;
+}
+.left{
+    display: inline-block;
+    position: absolute;
+    left: 51px;
+    top: 10px;
+    
+
+}
+.mid{
+    text-align: center;
+    margin-top: 10px;
+}
+.right{
+    display: inline-block;
+    position: absolute;
+    right: 51px;
+    top: 10px;
+}
+.navbar{
+    list-style: none;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 10px;
+    
+
+}
+.navbar li a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
